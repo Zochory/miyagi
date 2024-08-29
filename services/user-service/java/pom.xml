@@ -21,7 +21,7 @@
         <flyway-maven-plugin.version>9.20.0</flyway-maven-plugin.version>
         <maven-compiler-plugin.version>3.11.0</maven-compiler-plugin.version>
         <spring-boot-starter-actuator.version>3.1.1</spring-boot-starter-actuator.version>
-        <mysql-connector-j.version>8.0.33</mysql-connector-j.version>
+        <mysql-connector-j.version>8.2.0</mysql-connector-j.version>
         <micronaut-micrometer-registry-prometheus.version>4.8.3</micronaut-micrometer-registry-prometheus.version>
         <spring-boot-starter-version>3.1.1</spring-boot-starter-version>
         <spring-cloud-starter-version>4.0.3</spring-cloud-starter-version>
