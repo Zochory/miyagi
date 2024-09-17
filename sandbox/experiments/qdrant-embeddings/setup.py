@@ -8,9 +8,9 @@ setup(
     install_requires=[
         "uvicorn==0.22.0",
         "openai==0.27.5",
-        "fastapi==0.95.1",
-        "pydantic~=1.10.7",
-        "qdrant-client==1.1.6",
+        "fastapi==0.109.1",
+        "pydantic>=1.10.7,<2.10.0",
+        "qdrant-client==1.9.0",
     ],
     extras_require={
         "dev": [
